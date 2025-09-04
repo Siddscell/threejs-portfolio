@@ -95,7 +95,7 @@ This project is licensed under the **MIT License** – see the LICENSE file for 
 
 ---
 
-## Contact
+## Contac
 
 * **Name:** \Siddhant Patil
 * **Email:** \Siddhantpatil560@gmail.com
